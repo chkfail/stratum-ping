@@ -17,15 +17,16 @@ Usage of ./stratum-ping:
   -6    use ipv6
   -c int
         stop after <count> replies (default 5)
+  -i string
+        input file
   -p string
         pass (default "x")
   -t string
-        stratum type: stratum1, stratum2 (default "stratum2")
+        stratum type: stratum1, stratum2 (default "stratum2")       
   -tls
         use TLS
   -u string
         login (default "0x63a14c53f676f34847b5e6179c4f5f5a07f0b1ed")
-
 ```
 
 ## Example Usage
